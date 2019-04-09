@@ -1,0 +1,11 @@
+Financial Analysis
+----------------------------------------
+Total Month  : Date             86
+Profit/Losses    86
+dtype: int64
+Total $ : Date             Jan-2010Feb-2010Mar-2010Apr-2010May-2010Jun-20...
+Profit/Losses                                             38382578
+dtype: object
+Highest_Profit : Sep-2016$ 1170593
+Large_decrease : Apr-2010$ -1196225
+End of file 
